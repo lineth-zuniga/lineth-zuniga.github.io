@@ -45,7 +45,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 - Los géneros más rentables globalmente son Shooter, Sports y Action.
 - Existen diferencias regionales claras entre NA/EU vs Japón.
 
-👉 [Ver proyecto completo](LINK_AQUI)
+👉 [Ver proyecto completo](https://github.com/lineth-zuniga/successful-videogames-analysis)
 
 ---
 
@@ -60,7 +60,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 - La mayor demanda se concentra en zonas céntricas y turísticas.
 - La duración de viajes cambia significativamente en condiciones lluviosas (p < 0.05).
 
-👉 [Ver proyecto completo](LINK_AQUI)
+👉 [Ver proyecto completo](https://github.com/lineth-zuniga/ridesharing-platform)
 
 ---
 
